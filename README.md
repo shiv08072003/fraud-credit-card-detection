@@ -1,0 +1,2 @@
+This project is a credit card fraud detection system that utilizes a dataset of credit card transactions to classify transactions as either legitimate or fraudulent using logistic regression.
+Logistic regression is a binary classification algorithm that predicts the probability of an event belonging to one of two classes. Instead of fitting a straight line (as in linear regression), it fits a sigmoid function, which maps any real-valued input to a value between 0 and 1.
